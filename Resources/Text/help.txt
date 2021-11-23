@@ -1,0 +1,36 @@
+GAME PLAY
+
+CONTROLS
+:W
+- Moves the player up.
+- Moves the selector up in menus.
+:UPARROW
+- Moves the player up.
+- Moves the selector up in menus.
+:A
+- Moves the player to the left.
+:S
+- Moves the player downwards.
+- Moves the selector downward in menus.
+:DOWNARROW
+- Moves the player downwards.
+- Moves the selector downward in menus.
+:D
+- Moves the player to the right.
+:SPACEBAR
+- Shoots bullets.
+- Selects highlighted options in menus.
+:Z
+- Shoots bullets.
+- Selects highlighted options in menus.
+:Enter 
+- Selects highlighted options in menus.
+:LEFTSHIFT
+- Slows movement and shot accuracy.
+:X
+- Activates bomb.
+:M
+- Activates bomb.
+:ESCAPE
+- Pauses the game.
+- Exits the game when in main menu;
